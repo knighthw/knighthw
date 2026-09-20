@@ -2,6 +2,22 @@
 knighthw</a></h1>
 
 <h3 align="center">Web & Mobile Developer</h3>
+Hey there! 👋
+
+I'm knighthw, a mobile developer based in Cuenca, Ecuador.
+
+I can design and build whatever I have in my imagination.
+
+My main technology is React Native, but I also perform very well in Flutter using Dart. My favorite tools for everyday use are Notion and Pixel Studio.
+
+I have a bunch of projects, but you can check out my favorites in my [portfolio](https://habitduck.com/portafolio). I'm constantly looking to improve and create many more apps.
+
+**Fun Facts:**
+- I have a cat named Violet 🐈
+- I love music and playing video games 🎮
+- Hobbies: Gym, running, and reading 📚
+
+
 
 <h4>Languages</h4>
 <span>
