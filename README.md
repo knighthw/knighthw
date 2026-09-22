@@ -4,19 +4,12 @@ knighthw</a></h1>
 <h3 align="center">Web & Mobile Developer</h3>
 Hey there! 👋
 
-I'm knighthw, a mobile developer based in Cuenca, Ecuador.
-
-I can design and build whatever I have in my imagination.
-
-My main technology is React Native, but I also perform very well in Flutter using Dart. My favorite tools for everyday use are Notion and Pixel Studio.
-
-I have a bunch of projects, but you can check out my favorites in my [portfolio](https://habitduck.com/portafolio). I'm constantly looking to improve and create many more apps.
-
-**Fun Facts:**
-- I have a cat.
-- I love music and playing video games 🎮
-- Hobbies: Gym, running, and reading 📚
-
+Systems Engineering student,
+I build mobile apps end to end, from data modeling to release builds.
+📱 Currently focused on React Native + TypeScript (Expo), with two complete Android apps built
+🐦 Exploring Flutter/Dart through personal projects
+☕ Solid foundation in Java and SQL (MySQL, Oracle) from university projects
+🌱 Learning by shipping: every project here taught me something new
 
 
 <h4>Languages</h4>
@@ -25,7 +18,6 @@ I have a bunch of projects, but you can check out my favorites in my [portfolio]
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </span>
 
