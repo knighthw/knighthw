@@ -13,7 +13,7 @@ My main technology is React Native, but I also perform very well in Flutter usin
 I have a bunch of projects, but you can check out my favorites in my [portfolio](https://habitduck.com/portafolio). I'm constantly looking to improve and create many more apps.
 
 **Fun Facts:**
-- I have a cat named Violet 🐈
+- I have a cat.
 - I love music and playing video games 🎮
 - Hobbies: Gym, running, and reading 📚
 
